@@ -1,3 +1,7 @@
+## I am Jonas, I am a student of information system and programming at citeforma, in Lisbon, Portugal.
+
+
+
 ### Here is what i'm working on! 👋
 ![](https://komarev.com/ghpvc/?username=jonasnapoles)
 
