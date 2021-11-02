@@ -1,4 +1,21 @@
-### Hi there 👋
+### Here is what i'm working on! 👋
+![](https://komarev.com/ghpvc/?username=jonasnapoles)
+
+<!-- 
+▶️ [Portfolio]()
+
+▶️ [LinkedIn]() 
+
+▶️ [Instagram]()
+
+▶️ [Facebook]() 
+-->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasnapoles)](https://github.com/jonasnapoles/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasnapoles&layout=compact)](https://github.com/jonasnapoles/github-readme-stats)
+
+
+
 
 <!--
 **jonasnapoles/jonasnapoles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
