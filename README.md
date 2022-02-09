@@ -5,10 +5,14 @@
 ### Here is what i'm working on! 👋
 ![](https://komarev.com/ghpvc/?username=jonasnapoles)
 
+
+▶️ [LinkedIn](https://pt.linkedin.com/in/jonatanoliveira) 
+
+
 <!-- 
 ▶️ [Portfolio]()
 
-▶️ [LinkedIn]() 
+
 
 ▶️ [Instagram]()
 
