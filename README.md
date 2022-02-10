@@ -9,14 +9,12 @@
 ▶️ [LinkedIn](https://pt.linkedin.com/in/jonatanoliveira) 
 
 
+▶️ [Facebook](https://www.facebook.com/profile.php?id=100048450020113) 
 <!-- 
 ▶️ [Portfolio]()
 
-
-
 ▶️ [Instagram]()
 
-▶️ [Facebook]() 
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasnapoles)](https://github.com/jonasnapoles/github-readme-stats)
