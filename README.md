@@ -17,7 +17,6 @@
 
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasnapoles)](https://github.com/jonasnapoles/github-readme-stats)
 [![Top Langs Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasnapoles&layout=compact)](https://github.com/jonasnapoles/github-readme-stats)
 
 
@@ -25,6 +24,7 @@
 
 <!--
 **jonasnapoles/jonasnapoles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonasnapoles)](https://github.com/jonasnapoles/github-readme-stats)
 
 Here are some ideas to get you started:
 
