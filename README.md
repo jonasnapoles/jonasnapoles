@@ -1,6 +1,9 @@
 ## I am Jonas, I am a student of information system and programming at citeforma, in Lisbon, Portugal.
 
-🌱 I’m currently learning Laravel
+🌱 I’m currently learning Laravel and Vue
+
+
+🔭 I’m currently working on Laravel Nova Package
 
 ### Here is what i'm working on! 👋
 ![](https://komarev.com/ghpvc/?username=jonasnapoles)
