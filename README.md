@@ -6,10 +6,10 @@
 🔭 I’m currently working on Laravel Nova Package
 
 ### Here is what i'm working on! 👋
-![](https://komarev.com/ghpvc/?username=jonasnapoles)
+![Dark](https://komarev.com/ghpvc/?username=jonasnapoles)
 
 
-▶️ [LinkedIn](https://pt.linkedin.com/in/jonatanoliveira) 
+▶️ #### [![Linkedin Badge](https://pt.linkedin.com/in/jonatanoliveira) 
 
 
 ▶️ [Facebook](https://www.facebook.com/profile.php?id=100048450020113) 
