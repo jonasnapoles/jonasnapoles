@@ -5,8 +5,7 @@
 
 🔭 I’m currently working on Laravel Nova Package
 
-### Here is what i'm working on! 👋
-![](https://komarev.com/ghpvc/?username=jonasnapoles)
+
 
 
 ▶️ [Linkedin](https://pt.linkedin.com/in/jonatanoliveira) 
@@ -36,4 +35,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+### Here is what i'm working on! 👋
+![](https://komarev.com/ghpvc/?username=jonasnapoles)
 -->
