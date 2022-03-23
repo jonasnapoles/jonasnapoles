@@ -9,14 +9,12 @@
 ![](https://komarev.com/ghpvc/?username=jonasnapoles)
 
 
-▶️ ####[Linkedin Badge](https://pt.linkedin.com/in/jonatanoliveira) 
+▶️ [Linkedin](https://pt.linkedin.com/in/jonatanoliveira) 
 
 
 ▶️ [Facebook](https://www.facebook.com/profile.php?id=100048450020113) 
 <!-- 
 ▶️ [Portfolio]()
-
-▶️ [Instagram]()
 
 -->
 
