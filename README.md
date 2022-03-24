@@ -12,6 +12,8 @@
 
 
 ▶️ [Facebook](https://www.facebook.com/profile.php?id=100048450020113) 
+
+▶️ [Blog](https://jonasnapoles.blogspot.com/)
 <!-- 
 ▶️ [Portfolio]()
 
