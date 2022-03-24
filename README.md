@@ -1,6 +1,6 @@
 ## I am Jonas, I am a student of information system and programming at citeforma, in Lisbon, Portugal.
 
-🌱 I’m currently learning Laravel and Vue
+🌱 I’m currently learning Laravel, Laradoc and Vue.js
 
 
 🔭 I’m currently working on Laravel Nova Package
