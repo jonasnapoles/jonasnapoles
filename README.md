@@ -19,9 +19,12 @@
 
 -->
 
-[![Top Langs dark](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasnapoles&layout=compact)](https://github.com/jonasnapoles/github-readme-stats)
+<!--[![Top Langs dark](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasnapoles&layout=compact)](https://github.com/jonasnapoles/github-readme-stats) -->
 
-
+<p align="left">
+  <a href="https://github.com/jonasnapoles"><img width="400" src="https://github-readme-stats.vercel.app/api?username=jonasnapoles&show_icons=true&theme=gotham">
+  <a href="https://github.com/jonasnapoles"><img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasnapoles&hide=html,css&langs_count=10&layout=compact&theme=gotham">
+</p>
 
 <!--
 **jonasnapoles/jonasnapoles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
