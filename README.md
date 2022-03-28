@@ -3,7 +3,7 @@
 🌱 I’m currently learning Laravel, Laradoc and Vue.js
 
 
-🔭 I’m currently working on nova-notes-field Package
+🔭 I’m currently working on Nova Notes Field Package
 
 
 
