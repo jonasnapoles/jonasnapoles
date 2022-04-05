@@ -1,4 +1,4 @@
-## I am Jonas, I am a student of information system and programming at citeforma, in Lisbon, Portugal.
+## I am a software developer with a technological specialization course, I have a technical degree specializing in information systems technologies and programming carried out at the educational institution Citeforma, Lisbon.
 
 🌱 I’m currently learning Laravel, Laradoc and Vue.js
 
