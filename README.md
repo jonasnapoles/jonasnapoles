@@ -2,14 +2,9 @@
 
 🌱 I’m currently learning Laravel and Vue.js
 
-
 🔭 I’m currently working on Nova Notes Field Package
 
-
-
-
-▶️ [Linkedin](https://pt.linkedin.com/in/jonatanoliveira) 
-
+📫 I can be reached on [Linkedin](https://pt.linkedin.com/in/jonatanoliveira).
 
 ▶️ [Facebook](https://www.facebook.com/profile.php?id=100048450020113) 
 
