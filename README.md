@@ -1,7 +1,7 @@
 
 ### Hello there! 👋
 
-I am a software developer with a technological specialization course, I have a technical degree specializing in information systems technologies and programming carried out at the educational institution Citeforma (Portugal).
+I am a software developer with a Advanced Certificate in Software Development at Citeforma Further Education and Training (Portugal).
 
 🌱 I’m currently learning Laravel and Vue.js
 
