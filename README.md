@@ -5,7 +5,7 @@ I am a software developer with a Advanced Certificate in Software Development at
 
 🌱 I’m currently learning Laravel and Vue.js
 
-🔭 I’m currently working on Nova Notes Field Package
+🔭 I’m currently working on my portfolio
 
 📫 I can be reached on [Linkedin](https://pt.linkedin.com/in/jonatanoliveira).
 
