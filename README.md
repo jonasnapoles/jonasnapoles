@@ -1,11 +1,11 @@
 
 ### Hello there! 👋👋
 
-I am a software developer with a Advanced Certificate in Software Development at Citeforma Further Education and Training (Portugal).
+I am a software developer with a Advanced Certificate in Software Development at Citeforma Further Education and Training (Portugal). I'am currently a student at the ISEL, Polytechnic of Lisboa.
 
-🌱 I’m currently learning Laravel and Vue.js
+🌱 I’m currently learning Laravel and Vue.js.
 
-🔭 I’m currently working on my portfolio
+🔭 I’m currently working on my portfolio.
 
 🔎 I'm available to collaborate with NGOs.
 
