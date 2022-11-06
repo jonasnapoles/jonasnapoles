@@ -7,6 +7,8 @@ I am a software developer with a Advanced Certificate in Software Development at
 
 🔭 I’m currently working on my portfolio
 
+🔎 I'm available to collaborate with NGOs.
+
 📫 I can be reached on [Linkedin](https://pt.linkedin.com/in/jonatanoliveira).
 
 <p align="left">
