@@ -1,7 +1,8 @@
 
 ### Hello there! 👋👋
 
-I am a software developer with a Advanced Certificate in Software Development at Citeforma Further Education and Training. I'am currently a student at the ISEL, Polytechnic of Lisboa.
+I am a software developer with a Advanced Certificate in Software Development at Citeforma Further Education and Training. 
+I have knowledge of Web design, Front-end, and Back-end developent. 
 
 🌱 I’m currently learning Laravel and React.js.
 
