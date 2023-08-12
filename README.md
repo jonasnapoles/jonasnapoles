@@ -1,15 +1,17 @@
 
-### Hello there! 👋👋
+### Hello there! 😀
 
-I am a software developer with a Advanced Certificate in Software Development at Citeforma Further Education and Training.
+👨‍💻 I am a software developer with an Advanced Certificate in Software Development at Citeforma Further Education and Training.
 
-I have knowledge of Web design, Front-end, and Back-end developent. 
+🎓 I am currently studying for a Bachelor´s Degree in Information Systems at University College Estácio (UNESA).
 
-🌱 I’m currently learning Laravel and React.js.
+📃 My background is in Web design, Front-end, and Back-end development. 
 
-🔭 I’m currently working on my portfolio.
+🌱 I am currently learning Laravel and React.js.
 
-🔎 I'm available to collaborate with NGOs.
+🔭 I am currently working on my portfolio.
+
+🔎 I am available to collaborate with NGOs.
 
 📫 I can be reached on [Linkedin](https://pt.linkedin.com/in/jonatanoliveira).
 
