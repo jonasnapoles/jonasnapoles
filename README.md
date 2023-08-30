@@ -13,7 +13,7 @@
 
 🔎 I am available to collaborate with NGOs.
 
-📫 I can be reached on [Linkedin](https://pt.linkedin.com/in/jonatanoliveira).
+📫 I can be reached on [Linkedin](www.linkedin.com/in/jonasnapoles).
 
 <p align="left">
   <a href="https://github.com/jonasnapoles"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasnapoles&show_icons=true&theme=gotham">
