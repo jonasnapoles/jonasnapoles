@@ -11,7 +11,7 @@
 
 🔭 I am currently working on my portfolio.
 
-🏆 My aim is to become a Cloud Architect and senior developer in 4 years.
+🏆 My aim is to become a Cloud Architect and Senior Developer in 4 years.
 
 🔎 I am available to collaborate in the developement of professional websites and databases as a junior full stack position.
 
