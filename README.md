@@ -1,17 +1,21 @@
 
-### Hello there! 😀
+### What's the story! 😀
 
 👨‍💻 I am a software developer with an Advanced Certificate in Software Development at Citeforma Further Education and Training.
 
-🎓 I am currently studying for a Bachelor´s Degree in Information Systems at Estácio de Sá University (UNESA).
+🎓 I am currently studying for a Bachelor´s Degree in Information Systems at Estacio University (UNESA).
 
 📃 My background is in Web design, Front-end, and Back-end development. 
 
-🌱 I am currently learning AWS, Laravel and React.js.
+🌱 I am currently developing my skills on AWS, Python, Laravel and React.js.
 
 🔭 I am currently working on my portfolio.
 
-🔎 I am available to collaborate with NGOs.
+🏆 My aim is to become a Cloud Architect and senior developer in 4 years.
+
+🔎 I am available to collaborate in the developement of professional websites and databases as a junior full stack position.
+
+🌍 I have valuable intercional experience, I worked in Argentina, Brazil, Portugal, Switzeland and Ireland.
 
 📫 I can be reached on [Linkedin](www.linkedin.com/in/j-n-oliveira/).
 
