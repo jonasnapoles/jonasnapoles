@@ -7,9 +7,9 @@
 
 📃 My background is in Web design, Front-end, and Back-end development. 
 
-🌱 I am currently developing my skills on AWS, Python, Laravel and React.js.
+🌱 I am currently developing my skills on AWS, Python, Laravel Ecosystem.
 
-🔭 I am currently working on my portfolio.
+🔭 I am currently working on my portfolio [WorddSpress version](https://www.jonasnapoles.com/) and [Laravel version](https://www.my-laravel.jonasnapoles.com/).
 
 🏆 My aim is to become a Cloud Architect and Senior Developer in 4 years.
 
