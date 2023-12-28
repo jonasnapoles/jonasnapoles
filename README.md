@@ -9,7 +9,7 @@
 
 🌱 I am currently developing my skills on AWS, Python, Laravel Ecosystem.
 
-🔭 I am currently working on my portfolio [WorddSpress version](https://www.jonasnapoles.com/) and [Laravel version](https://www.my-laravel.jonasnapoles.com/).
+🔭 I am currently working on my portfolio [WordPress version](https://www.jonasnapoles.com/) and [Laravel version](https://www.my-laravel.jonasnapoles.com/).
 
 🏆 My aim is to become a Cloud Architect and Senior Developer in 4 years.
 
