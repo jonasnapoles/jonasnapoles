@@ -3,11 +3,11 @@
 
 👨‍💻 I am a software developer with an Advanced Certificate in Software Development at Citeforma Further Education.
 
-🎓 I am currently studying for a Bachelor´s Degree in Information Systems at Estacio de Sa University (UNESA).
+🎓 I am studying for a Bachelor´s Degree in Information Systems at Estacio de Sa University (UNESA).
 
 📃 My background is in Web design, Front-end, and Back-end development. 
 
-🌱 I am currently developing my skills in AWS, Python, Laravel Ecosystem.
+🌱 I am developing my AWS, Python, and Laravel Ecosystem skills.
 
 🔭 I am currently working on my portfolio [WordPress version](https://www.jonasnapoles.com/) and [Laravel version](https://my-laravel.jonasnapoles.com/).
 
@@ -15,9 +15,9 @@
 
 🔎 I am available to collaborate in developing professional websites and databases as a junior full stack position.
 
-🌍 I have valuable intercional experience, I worked in Argentina, Brazil, Portugal, Switzeland and Ireland.
+🌍 I have valuable international experience, I worked in Argentina, Brazil, Portugal, Switzerland and Ireland.
 
-📫 I can be reached on [Linkedin](www.linkedin.com/in/j-n-oliveira/).
+📫 I can be reached on [Linkedin](https://www.linkedin.com/in/jn-oliveira/).
 
 <p align="left">
   <a href="https://github.com/jonasnapoles"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonasnapoles&show_icons=true&theme=gotham">
