@@ -3,7 +3,7 @@
 
 👨‍💻 I am a software developer with an Advanced Certificate in Software Development at Citeforma Further Education.
 
-🎓 I am studying for a Bachelor´s Degree in Information Systems at Estacio de Sa University (UNESA).
+🎓 I am studying for a Bachelor´s Degree in Software Engineer at UAB.
 
 📃 My background is in Web design, Front-end, and Back-end development. 
 
