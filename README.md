@@ -13,7 +13,7 @@
 
 🏆 I aim to become a Senior Developer in 4 years.
 
-🔎 I am available to collaborate in developing professional websites and databases as a junior full stack position.
+🔎 I am available to collaborate in developing professional websites and databases as a computer programmer position.
 
 🌍 I have valuable international experience, I worked in Argentina, Brazil, Portugal, Switzerland and Ireland.
 
