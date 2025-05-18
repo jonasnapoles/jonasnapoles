@@ -1,17 +1,18 @@
 
 ### What's the story? 😀
 
-👨‍💻 I am a software developer with an Advanced Certificate in Software Development at Citeforma Further Education.
+👨‍💻 I am a software developer with an Advanced Certificate in Software Development at Citeforma.
 
 🎓 I am studying for a Bachelor´s Degree in Software Engineer at UAB.
 
-📃 My background is in Web design, Front-end, and Back-end development. 
 
-🌱 I am developing my AWS, Python, and Laravel Ecosystem skills.
+📃 My background is in full-stack development.
 
-🔭 I am currently working on my portfolio [WordPress version](https://www.jonasnapoles.com/) and [Laravel version](https://my-laravel.jonasnapoles.com/).
+🌱 I am developing my Cybersecurity, Python, and Laravel Ecosystem skills.
 
-🏆 I aim to become a Senior Developer in 4 years.
+🔭 I am currently working my portfolio and community research projects.
+
+🏆 I aim to become a Senior Developer in 3 years.
 
 🔎 I am available to collaborate in developing professional websites and databases as a computer programmer position.
 
